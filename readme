@@ -1,0 +1,39 @@
+# Bitcoin React Project
+
+## About the Project
+This is a beginner-friendly **React learning project** created to understand **Redux Toolkit** and **API integration**.
+
+The project fetches cryptocurrency data (like Bitcoin and other coins) from a public API and displays it in a simple card-based UI.  
+This project is made **only for learning React and Redux**.
+
+---
+
+## What I Learned
+- How to create a Redux store using `configureStore`
+- How to create slices using `createSlice`
+- How to fetch data using `createAsyncThunk`
+- How Redux handles loading, success, and error states
+- How to use `useDispatch` and `useSelector` in React
+- How to manage global state in a React application
+
+---
+
+## Tech Stack
+- React
+- Redux Toolkit
+- React Redux
+- Parcel Bundler
+- JavaScript
+
+---
+
+## API Used
+This project uses the **CoinGecko API** to fetch cryptocurrency data.
+
+Thanks to CoinGecko for providing free public API access 🙏
+https://api.coingecko.com/api/v3/coins/markets API
+
+Author
+
+Dharmendra Gupta
+Learning React & Redux 🚀
